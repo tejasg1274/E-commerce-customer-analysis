@@ -99,6 +99,9 @@ Based on the analysis, the following actions can be considered:
 
 ## Project Structure
 
+## Project Structure
+
+```text
 E-Commerce-Customer-Analysis/
 ├── Data/
 │   ├── Cleaned_data.csv
@@ -116,7 +119,7 @@ E-Commerce-Customer-Analysis/
 ├── Reports/
 │   └── Project_findings.txt
 └── README.md
-
+```
 
 ## Skills Demonstrated
 
