@@ -97,30 +97,24 @@ Based on the analysis, the following actions can be considered:
 
 ## Project Structure
 
+## Project Structure
+
 E-Commerce-Customer-Analysis/
-│
 ├── Data/
 │   ├── Cleaned_data.csv
 │   └── Raw_data.csv
-│
 ├── Excel/
 │   └── Excel_cleaned_data.xlsx
-│
 ├── Images/
-│   └── E-Commerce _customer_behaviour_dashboard_IMG.jpg
-│    
+│   └── E-Commerce_customer_behaviour_dashboard_IMG.jpg
 ├── Notebooks/
 │   └── Python_EDA.ipynb
-│
 ├── PowerBI/
-│   └── PowerBi_dashboard.pbix
-│
+│   └── PowerBI_dashboard.pbix
 ├── SQL/
 │   └── Queries.png
-│
 ├── Reports/
-│   └── Project_findings.txt 
-│
+│   └── Project_findings.txt
 └── README.md
 
 
