@@ -103,7 +103,7 @@ Based on the analysis, the following actions can be considered:
 
 ```text
 E-Commerce-Customer-Analysis/
-├── Data/
+├── Dataset/
 │   ├── Cleaned_data.csv
 │   └── Raw_data.csv
 ├── Excel/
