@@ -75,9 +75,13 @@ This project addresses the following business questions:
 Based on the current dashboard observations:
 
 1.Membership: Gold members contributed the highest total spending, reaching 12.8M.
+
 2.Satisfaction: 39.1% of customers were satisfied, while 23.9% reported dissatisfaction.
+
 3.City Analysis: Customer distribution remained nearly equal across all six cities.
+
 4.Age Group: Customers aged 56+ generated the highest total spending of 9.7M.
+
 5.Customer Base: The analysis covered approximately 100K customer records to understand purchasing behavior.
 
 
