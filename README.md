@@ -95,9 +95,6 @@ Based on the analysis, the following actions can be considered:
 6. **Performance Monitoring:** Track customer satisfaction, spending, and retention-related indicators over time to evaluate business actions.
 
 
-## Project Structure
-
-## Project Structure
 
 ## Project Structure
 
