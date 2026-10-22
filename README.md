@@ -37,7 +37,7 @@ This project addresses the following business questions:
 
 ### Dataset Source
 
-- **Dataset:** E-commerce Customer Behavior and Satisfaction Dataset
+- **Dataset Name:** E-commerce Customer Behavior and Satisfaction Dataset
 - **Source:** https://github.com/tejasg1274/E-commerce-customer-analysis/blob/main/Data/Raw_data.csv
 
 
