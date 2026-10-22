@@ -62,8 +62,6 @@ This project addresses the following business questions:
 6. **Documentation:** Organized project files, findings, and business recommendations for reproducibility and portfolio presentation.
 
 
-### Dashboard Preview
-
 ## Dashboard Preview
 
 ![Dashboard Preview](https://github.com/tejasg1274/E-commerce-customer-analysis/blob/main/Images/E-Commerce%20_customer_behaviour_dashboard_IMG.jpg)
